@@ -1,3 +1,3 @@
-### Hi there 👋
+# Git & Github 👋
 
 github project practice
